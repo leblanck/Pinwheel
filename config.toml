@@ -1,0 +1,35 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Pinwheel"
+theme = "cocoa-eh"
+layoutdir = "layouts"
+googleAnalytics = "UA-139864257-1"
+publishdir = "public"
+author = "Kyle LeBlanc"
+disqusshortname = "pinwheel-1"
+pluralizelisttitles = false
+contentdir = "content"
+canonifyurls = true
+builddrafts = true
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "macOS Enterprise Administration"
+copyright = "Copyright © 2019 Kyle LeBlanc"
+logofile = "img/pinwheel.png"
+faviconfile = "img/pinwheelfavicon.png"
+highlistjs = true
+progressively = true
+align_left = true
+lang = "en"
+github = "leblanck"
+email = "kyle.paul.leblanc@gmail.com"
+linkedin = "leblanck"
+twitter = "pinwheel_bos"
+social_banner = ""
+posts_navigation = true
+small_banner_logo = false
