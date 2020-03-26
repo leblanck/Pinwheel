@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/jamf-rolling-updates/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bash/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jamf/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jss/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/updates/</loc>
+    <lastmod>2020-03-26T17:06:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/viewing-configuration-profiles-in-terminal/</loc>
+    <lastmod>2019-05-09T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/configuration-profiles/</loc>
+    <lastmod>2019-05-09T13:53:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/terminal/</loc>
+    <lastmod>2019-05-09T13:53:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/building-pinwheel-with-hugo-and-firebase/</loc>
+    <lastmod>2019-05-08T15:04:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/firebase/</loc>
+    <lastmod>2019-05-08T15:04:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2019-05-08T15:04:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/webdev/</loc>
+    <lastmod>2019-05-08T15:04:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-05-08T11:24:13-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/automating-new-web-dev-environments/</loc>
+    <lastmod>2019-05-05T13:52:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/automation/</loc>
+    <lastmod>2019-05-05T13:52:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/homebrew/</loc>
+    <lastmod>2019-05-05T13:52:34-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/active-directory-domain-migration-on-macos/</loc>
+    <lastmod>2019-05-03T11:28:26-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/active-directory/</loc>
+    <lastmod>2019-05-03T11:28:26-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>automation on Pinwheel</title>
+    <link>/tags/automation/</link>
+    <description>Recent content in automation on Pinwheel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 13:52:34 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automating New Web Dev Environments</title>
+      <link>/blog/automating-new-web-dev-environments/</link>
+      <pubDate>Sun, 05 May 2019 13:52:34 -0400</pubDate>
+      
+      <guid>/blog/automating-new-web-dev-environments/</guid>
+      <description>&amp;ldquo;We need to re-image your laptop&amp;rdquo; &amp;ldquo;Time to nuke and repave&amp;rdquo; &amp;ldquo;Your machine is totally borked&amp;rdquo;
+No one wants to hear those words come from IT. Especially developers. I&amp;rsquo;ve had to deliver this news more times than I can count from users destroying their own machines either from messing with permissions, malware, or just from updates gone wrong.
+I&amp;rsquo;ve done my best to help alleviate some of this pain from the dev crowd by assisting in automating their environment setup on a net-new machine.</description>
+    </item>
+    
+  </channel>
+</rss>

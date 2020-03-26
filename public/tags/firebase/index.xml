@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>firebase on Pinwheel</title>
+    <link>/tags/firebase/</link>
+    <description>Recent content in firebase on Pinwheel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2019 15:04:05 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/firebase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Building Pinwheel with Hugo and Firebase</title>
+      <link>/blog/building-pinwheel-with-hugo-and-firebase/</link>
+      <pubDate>Wed, 08 May 2019 15:04:05 -0400</pubDate>
+      
+      <guid>/blog/building-pinwheel-with-hugo-and-firebase/</guid>
+      <description>The website you are reading right now was brought to you with the help of Hugo and Firebase. This combination of tools has allowed me to spin up a live website faster than I ever have before; &amp;lt; 1 hour to a live skeleton site. The free tier of Firebase made it really quick and easy to just pick up and get going, and since it is made by Google, I didn&amp;rsquo;t even need to create a second account.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terminal on Pinwheel</title>
+    <link>/tags/terminal/</link>
+    <description>Recent content in terminal on Pinwheel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2019 13:53:36 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Viewing Configuration Profiles in Terminal</title>
+      <link>/blog/viewing-configuration-profiles-in-terminal/</link>
+      <pubDate>Thu, 09 May 2019 13:53:36 -0400</pubDate>
+      
+      <guid>/blog/viewing-configuration-profiles-in-terminal/</guid>
+      <description>Often times I find myself wanting to view a print out of currently installed configuration profiles on a machine, but either can&amp;rsquo;t or don&amp;rsquo;t want to use the GUI. This would normally consist of going to System Preferences &amp;gt; Profiles to view a list of all profiles installed.
+This method is useless if I am ssh&amp;rsquo;d into a box or am running a script remotely, etc.
+You can run profiles -C in terminal to get a basic output of your profiles but if they were created using Jamf, then they&amp;rsquo;re not named in a very human-readable format.</description>
+    </item>
+    
+  </channel>
+</rss>

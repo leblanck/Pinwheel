@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Pinwheel</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Pinwheel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2020 17:06:36 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bash</title>
+      <link>/tags/bash/</link>
+      <pubDate>Thu, 26 Mar 2020 17:06:36 -0400</pubDate>
+      
+      <guid>/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jamf</title>
+      <link>/tags/jamf/</link>
+      <pubDate>Thu, 26 Mar 2020 17:06:36 -0400</pubDate>
+      
+      <guid>/tags/jamf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jss</title>
+      <link>/tags/jss/</link>
+      <pubDate>Thu, 26 Mar 2020 17:06:36 -0400</pubDate>
+      
+      <guid>/tags/jss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>updates</title>
+      <link>/tags/updates/</link>
+      <pubDate>Thu, 26 Mar 2020 17:06:36 -0400</pubDate>
+      
+      <guid>/tags/updates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration profiles</title>
+      <link>/tags/configuration-profiles/</link>
+      <pubDate>Thu, 09 May 2019 13:53:36 -0400</pubDate>
+      
+      <guid>/tags/configuration-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terminal</title>
+      <link>/tags/terminal/</link>
+      <pubDate>Thu, 09 May 2019 13:53:36 -0400</pubDate>
+      
+      <guid>/tags/terminal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>firebase</title>
+      <link>/tags/firebase/</link>
+      <pubDate>Wed, 08 May 2019 15:04:05 -0400</pubDate>
+      
+      <guid>/tags/firebase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Wed, 08 May 2019 15:04:05 -0400</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webdev</title>
+      <link>/tags/webdev/</link>
+      <pubDate>Wed, 08 May 2019 15:04:05 -0400</pubDate>
+      
+      <guid>/tags/webdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>/tags/automation/</link>
+      <pubDate>Sun, 05 May 2019 13:52:34 -0400</pubDate>
+      
+      <guid>/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>homebrew</title>
+      <link>/tags/homebrew/</link>
+      <pubDate>Sun, 05 May 2019 13:52:34 -0400</pubDate>
+      
+      <guid>/tags/homebrew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active directory</title>
+      <link>/tags/active-directory/</link>
+      <pubDate>Fri, 03 May 2019 11:28:26 -0400</pubDate>
+      
+      <guid>/tags/active-directory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

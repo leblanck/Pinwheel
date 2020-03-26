@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on Pinwheel</title>
+    <link>/tags/bash/</link>
+    <description>Recent content in bash on Pinwheel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2020 17:06:36 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jamf Rolling Updates</title>
+      <link>/blog/jamf-rolling-updates/</link>
+      <pubDate>Thu, 26 Mar 2020 17:06:36 -0400</pubDate>
+      
+      <guid>/blog/jamf-rolling-updates/</guid>
+      <description>Coming Soon!</description>
+    </item>
+    
+    <item>
+      <title>Viewing Configuration Profiles in Terminal</title>
+      <link>/blog/viewing-configuration-profiles-in-terminal/</link>
+      <pubDate>Thu, 09 May 2019 13:53:36 -0400</pubDate>
+      
+      <guid>/blog/viewing-configuration-profiles-in-terminal/</guid>
+      <description>Often times I find myself wanting to view a print out of currently installed configuration profiles on a machine, but either can&amp;rsquo;t or don&amp;rsquo;t want to use the GUI. This would normally consist of going to System Preferences &amp;gt; Profiles to view a list of all profiles installed.
+This method is useless if I am ssh&amp;rsquo;d into a box or am running a script remotely, etc.
+You can run profiles -C in terminal to get a basic output of your profiles but if they were created using Jamf, then they&amp;rsquo;re not named in a very human-readable format.</description>
+    </item>
+    
+    <item>
+      <title>Automating New Web Dev Environments</title>
+      <link>/blog/automating-new-web-dev-environments/</link>
+      <pubDate>Sun, 05 May 2019 13:52:34 -0400</pubDate>
+      
+      <guid>/blog/automating-new-web-dev-environments/</guid>
+      <description>&amp;ldquo;We need to re-image your laptop&amp;rdquo; &amp;ldquo;Time to nuke and repave&amp;rdquo; &amp;ldquo;Your machine is totally borked&amp;rdquo;
+No one wants to hear those words come from IT. Especially developers. I&amp;rsquo;ve had to deliver this news more times than I can count from users destroying their own machines either from messing with permissions, malware, or just from updates gone wrong.
+I&amp;rsquo;ve done my best to help alleviate some of this pain from the dev crowd by assisting in automating their environment setup on a net-new machine.</description>
+    </item>
+    
+  </channel>
+</rss>

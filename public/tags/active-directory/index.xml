@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>active directory on Pinwheel</title>
+    <link>/tags/active-directory/</link>
+    <description>Recent content in active directory on Pinwheel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2019 11:28:26 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/active-directory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Active Directory Domain Migration on MacOS</title>
+      <link>/blog/active-directory-domain-migration-on-macos/</link>
+      <pubDate>Fri, 03 May 2019 11:28:26 -0400</pubDate>
+      
+      <guid>/blog/active-directory-domain-migration-on-macos/</guid>
+      <description>Joining Windows machines to an AD domain is easy, intuitive, and downright simple. The same can&amp;rsquo;t really be said for machines running macOS. The task of binding these devices to the same AD world that your Windows machines are on can be tricky and cumbersome, but this is becoming all the more common as macOS is taking up a larger seat in the enterprise/corporate world.
+So we know how finicky binding macOS to AD is, now imagine automating the process to swap from one AD to a new one, on almost 1,400 macOS machines.</description>
+    </item>
+    
+  </channel>
+</rss>
